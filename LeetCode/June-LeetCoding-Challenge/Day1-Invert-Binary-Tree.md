@@ -10,7 +10,7 @@ Invert a binary tree.
 - Input 1:   
 ![input1](/assets/leetcode-june-challenge-day1-input1.PNG)
 - Output 1:   
-![output1](/assets/leetcode-june-challenge-day1-output1.png)
+![output1](/assets/leetcode-june-challenge-day1-output1.PNG)
 
 ### Default Code Definition
 ```java
