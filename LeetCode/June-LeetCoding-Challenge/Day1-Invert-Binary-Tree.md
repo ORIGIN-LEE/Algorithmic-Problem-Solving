@@ -8,9 +8,9 @@ Invert a binary tree.
 
 ### Test Case
 - Input 1:   
-![input1](../../assets/leetcode-june-challenge-day1-input1.png)
+![input1](/assets/leetcode-june-challenge-day1-input1.PNG)
 - Output 1:   
-![output1](../../assets/leetcode-june-challenge-day1-output1.png)
+![output1](/assets/leetcode-june-challenge-day1-output1.png)
 
 ### Default Code Definition
 ```java
