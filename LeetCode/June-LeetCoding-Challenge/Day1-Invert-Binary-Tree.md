@@ -4,12 +4,13 @@
 June LeetCoding Challenge 1일차 문제.  
 
 Invert a binary tree.   
-입력으로 주어진 binary tree의 모든 노드를 좌, 우 반전시켜야 된다.
+> 입력으로 주어진 binary tree의 모든 노드를 좌, 우 반전시켜야 된다.
 
 ### Test Case
-- Input 1:   
-![input1](/assets/leetcode-june-challenge-day1-input1.PNG)
-- Output 1:   
+- Example 1:   
+input   
+![input1](/assets/leetcode-june-challenge-day1-input1.PNG)   
+output   
 ![output1](/assets/leetcode-june-challenge-day1-output1.PNG)
 
 ### Default Code Definition
